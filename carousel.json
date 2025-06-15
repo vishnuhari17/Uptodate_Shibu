@@ -1,0 +1,37 @@
+[
+    {
+        "heading": "Smart TVs are Watching YOU \ud83d\udc40",
+        "text": "LG plans to use AI to analyze your emotions and beliefs to show you hyper-personalized ads. Is this the future of TV?",
+        "image_url": "https://images.unsplash.com/photo-1611597832906-c1c8033478ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mzg4OTB8MHwxfHNlYXJjaHw1fHxzbWFydC10di1wcml2YWN5LWNvbmNlcm5zfGVufDB8Mnx8fDE3NDUyNjEwMzd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "image_search_keyword": "smart tv privacy concerns",
+        "downloaded_path": "input_images/smart_tv_privacy_concerns.jpg"
+    },
+    {
+        "heading": "Beyond Demographics: Psychographic Targeting",
+        "text": "LG aims to go beyond basic demographics like age and location, focusing on your motivations and emotional triggers.",
+        "image_url": "https://images.unsplash.com/photo-1509395062183-67c5ad6faff9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mzg4OTB8MHwxfHNlYXJjaHwxfHxwc3ljaG9ncmFwaGljLW1hcmtldGluZ3xlbnwwfDJ8fHwxNzQ1MjYxMDQyfDA&ixlib=rb-4.0.3&q=80&w=1080",
+        "image_search_keyword": "psychographic marketing",
+        "downloaded_path": "input_images/psychographic_marketing.jpg"
+    },
+    {
+        "heading": "How Does It Work? \ud83e\udd14",
+        "text": "Zenapse's AI analyzes content and viewing habits to categorize you into groups like \"wellness seekers\" or \"social connectors.\"",
+        "image_url": "https://images.unsplash.com/photo-1579684256060-d5a308109e21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mzg4OTB8MHwxfHNlYXJjaHw3fHxBSS1kYXRhLWFuYWx5c2lzfGVufDB8Mnx8fDE3NDUyNjEwNDR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "image_search_keyword": "AI data analysis",
+        "downloaded_path": "input_images/AI_data_analysis.jpg"
+    },
+    {
+        "heading": "Your TV Knows What You're Watching!",
+        "text": "LG's Automatic Content Recognition (ACR) tracks what you watch, creating detailed profiles for ad targeting.",
+        "image_url": "https://images.unsplash.com/photo-1618254170747-35f7ba2f9a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mzg4OTB8MHwxfHNlYXJjaHw2fHxhdXRvbWF0aWMtY29udGVudC1yZWNvZ25pdGlvbnxlbnwwfDJ8fHwxNzQ1MjYxMDQ2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+        "image_search_keyword": "automatic content recognition",
+        "downloaded_path": "input_images/automatic_content_recognition.jpg"
+    },
+    {
+        "heading": "The Future of TV Advertising?",
+        "text": "Is this personalized advertising helpful or a privacy invasion? Let us know your thoughts in the comments!",
+        "image_url": "https://images.unsplash.com/photo-1573767291321-c0af2eaf5266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Mzg4OTB8MHwxfHNlYXJjaHw3fHxmdXR1cmUtb2YtYWR2ZXJ0aXNpbmd8ZW58MHwyfHx8MTc0NTI2MTA0OHww&ixlib=rb-4.0.3&q=80&w=1080",
+        "image_search_keyword": "future of advertising",
+        "downloaded_path": "input_images/future_of_advertising.jpg"
+    }
+]
