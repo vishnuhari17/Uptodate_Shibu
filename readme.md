@@ -141,9 +141,9 @@ No personal or user data is shared with any 3rd-party services. Only news articl
 
 ---
 
-## 📷 Optional: Screenshots
+## 📷 Sample Post
 
-![sample post](https://raw.githubusercontent.com/vishnuhari17/Uptodate_Shibu/sample.png?raw=true)
+![sample post](https://github.com/vishnuhari17/Uptodate_Shibu/blob/main/sample.png?raw=true)
 ---
 
 ## 📄 License
