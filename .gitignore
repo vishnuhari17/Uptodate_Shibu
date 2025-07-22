@@ -1,4 +1,4 @@
-
+.env
 venv/
 newsapi.txt
 token.txt
